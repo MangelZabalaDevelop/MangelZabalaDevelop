@@ -1,6 +1,4 @@
-# 🛡️ Miguel Zabala - Cybersecurity Expert & Penetration Tester
-
-## 👋 Hello! I'm Miguel Zabala
+# 🛡️ Miguel Zabala - Security Researcher
 
 I am a passionate offensive security expert with 9 years of experience in various security tasks. Currently, I work as a **Penetration Tester** at Aiuken Cybersecurity. My experience spans a wide range of industries, including aeronautics, OT, railway, banking, government, and private sectors.
 
@@ -8,7 +6,7 @@ I am a passionate offensive security expert with 9 years of experience in variou
 - **Email:** [nullsector00@gmail.com](mailto:nullsector00@gmail.com)
 - **Location:** Bogotá, Colombia
 - **Website:** [nullsector.co](https://nullsector.co/)
-
+- **Professional profile:** [Linkedin](https://www.linkedin.com/in/miguelzabalap/) 
 ---
 
 ## 🛠️ Skills
