@@ -94,5 +94,5 @@ I am always open to new opportunities for collaboration on cybersecurity project
 ---
 
 <div align="center">
-  <img src="[https://github.com/your-repository/path-to-image.png](https://github.com/MangelZabalaDevelop/MangelZabalaDevelop/blob/main/Logo%20NULLSECTOR-1.png)" alt="Miguel Zabala" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="[https://github.com/MangelZabalaDevelop/MangelZabalaDevelop/blob/main/Logo%20NULLSECTOR-1.png]" alt="Miguel Zabala" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
