@@ -37,37 +37,20 @@ I am a passionate offensive security expert with 9 years of experience in variou
 ### Aiuken Cybersecurity | Penetration Tester
 _Remote, Colombia | Jan 2023 - Present_
 
-- Conducting penetration tests on applications and networks.
-- Documenting vulnerabilities and proposing mitigation strategies.
-
 ### CSIS Security Group A/S | Security Consultant
 _Copenhagen, Denmark | Jan 2022 - Dec 2022_
-
-- Providing security consultancy to clients across Europe.
-- Implementing incident response plans.
 
 ### Mnemo | Penetration Tester
 _Madrid, Spain | Jun 2019 - Oct 2021_
 
-- Conducting security audits and penetration tests.
-- Developing internal security tools.
-
 ### Entelgy | Ethical Hacker
 _Bogotá, Colombia | Oct 2018 - Jun 2019_
-
-- Assessing systems and applications to identify vulnerabilities.
-- Implementing security countermeasures.
 
 ### NewNet S.A | Ethical Hacker
 _Bogotá, Colombia | Oct 2017 - Oct 2018_
 
-- Performing security audits and developing data protection plans.
-
 ### Colombian Outsourcing Solutions | Chief Information Security Officer
 _Bogotá, Colombia | Feb 2015 - Sep 2017_
-
-- Leading information security strategies.
-- Conducting risk assessments and developing mitigation plans.
 
 ---
 
