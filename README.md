@@ -92,7 +92,7 @@ I am always open to new opportunities for collaboration on cybersecurity project
 ## 🚀 Let's Secure the Future Together!
 
 ---
-https://github.com/MangelZabalaDevelop/MangelZabalaDevelop.git
+
 <div align="center">
   <img src="https://github.com/MangelZabalaDevelop/MangelZabalaDevelop/blob/main/Logo%20NULLSECTOR-1.png" alt="Miguel Zabala" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
