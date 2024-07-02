@@ -24,6 +24,8 @@ I am a passionate offensive security expert with 9 years of experience in variou
 
 ## 📜 Certifications
 
+- **OSCE³** - Offensive Security Certified Expert 3
+- **OSED** - Offensive Security Exploit Developer 
 - **OSCP** - Offensive Security Certified Professional
 - **OSWE** - Offensive Security Web Expert
 - **OSWP** - Offensive Security Wireless Professional
