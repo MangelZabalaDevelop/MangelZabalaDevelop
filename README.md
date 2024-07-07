@@ -22,7 +22,7 @@ I am a passionate offensive security expert with 9 years of experience in variou
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications(https://www.credential.net/profile/miguelzabala303830/wallet)
 
 - **OSCE³** - Offensive Security Certified Expert 3
 - **OSED** - Offensive Security Exploit Developer
@@ -32,7 +32,8 @@ I am a passionate offensive security expert with 9 years of experience in variou
 - **OSWP** - Offensive Security Wireless Professional
 - **CEHv9** - Certified Ethical Hacker v9
 
-[Credentials](https://www.credential.net/profile/miguelzabala303830/wallet)
+
+
 ---
 
 ## 🧩 Professional Experience
