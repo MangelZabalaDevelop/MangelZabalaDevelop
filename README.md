@@ -32,6 +32,7 @@ I am a passionate offensive security expert with 9 years of experience in variou
 - **OSWP** - Offensive Security Wireless Professional
 - **CEHv9** - Certified Ethical Hacker v9
 
+[Credentials](https://www.credential.net/profile/miguelzabala303830/wallet)
 ---
 
 ## 🧩 Professional Experience
